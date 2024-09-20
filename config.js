@@ -12,8 +12,8 @@ AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
 SUDO_NB: process.env.SUDO_NB || "94704227534",
 OWNER_NAME: process.env.OWNER_NAME || "Nethmika MAIN",
-BOT_NAME: process.env.BOT_NAME || "NETHU-MD",
+BOT_NAME: process.env.BOT_NAME || "PAHAH_JANURA",
 AUTO_VOICE: process.env.AUTO_VOICE || "true"
-
+AUTO_SEEN: process.env.AUTO_SEEN || "true"
 };
 
